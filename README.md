@@ -35,7 +35,7 @@ I started by doing a few things: The first one was to open the manual
 man tmux
 ```
 
-Then I opened the first of the links you can find above related to the efforts of other people, @Muzietto's link, to get a basic understanding of how to configure the configuration file for tmux.
+Then I opened the first of the links you can find above related to the efforts of other people, [@Muzietto](https://gist.github.com/Muzietto)'s link, to get a basic understanding of how to configure the configuration file for tmux.
 
 I performed some tests at first and I learned some things that can be useful for others as well:
 
