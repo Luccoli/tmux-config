@@ -95,7 +95,7 @@ In the WINDOWS AND PANES section of the MAN TMUX(1) you can find more details ab
 
 ### 4. Show the clock
 
-This toook me hours. Mostly because I did not think to search for ```clock``` in the man page, but I searched for ```time```, which is how the clock is named in the section DEFAULT KEY BINDINGS in the man page, where you find the list of all the quick actions you can do manually inside a tmux section.  
+This took me hours. Mostly because I did not think to search for ```clock``` in the man page, but I searched for ```time```, which is how the clock is named in the section DEFAULT KEY BINDINGS in the man page, where you find the list of all the quick actions you can do manually inside a tmux section.  
 Not my case though. I have to write the command in the config file.  
 So it took some troubleshooting and a weird route to find the correct tmux command to add to the config file.
 
