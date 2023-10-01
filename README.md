@@ -99,7 +99,7 @@ This toook me hours. Mostly because I did not think to search for ```clock``` in
 Not my case though. I have to write the command in the config file.
 So it took some troubleshooting and a weird route to find the correct tmux command to add to the config file.
 
-In this case I found help in the work of @sdondley, in the section of his document "Introducing key tables".
+In this case I found help in the work of [@sdondley](https://gist.github.com/sdondley), in the section of his document (linked above) "Introducing key tables".
 In there I found that running the command ```C-b :lsk -T prefix``` (C-b means CTRL+b) inside a tmux session will show the list of all the default key bindings (same as the DEFAULT KEY BINDINGS section of the man page) including the related tmux command they are recalling.
 And there I found the ```clock-mode``` tmux command, that does exactly what I needed.
 
