@@ -18,8 +18,8 @@ Custom tmux config file to spawn a tmux session already populated
 
 Let me start by saying that this result is not solely my own effort, there is also the effort of other people before me.
 Here a some links to their work (in the order in which I discovered them):
-https://gist.github.com/Muzietto/325344c2b1b3b723985a85800cafef4f
-https://gist.github.com/sdondley/b01cc5bb1169c8c83401e438a652b84e
+1. https://gist.github.com/Muzietto/325344c2b1b3b723985a85800cafef4f
+2. https://gist.github.com/sdondley/b01cc5bb1169c8c83401e438a652b84e
 
 ## Objectives
 
